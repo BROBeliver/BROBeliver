@@ -1,16 +1,98 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ananda Rokade</h1>
 
-<!--
-**BROBeliver/BROBeliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">MERN Stack Developer | Problem Solver</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;200%2B+DSA+Problems+Solved;Building+Scalable+Full+Stack+Apps;Exploring+AI+%26+Machine+Learning&center=true&width=550&height=45">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=anandarokade&label=Profile%20views&color=blue&style=flat"/>
+</p>
+
+---
+
+## 🚀 About Me
+
+🎓 B.E. E&TC Student at PICT Pune  
+💻 MERN Stack Developer | 📚 200+ DSA Problems | 🤖 AI/ML Explorer  
+🚀 Building real-world applications and strong problem-solving skills
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,python,cpp,html,css,git,github,vscode" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BROBeliver&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BROBeliver&theme=tokyonight" height="170"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BROBeliver&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=BROBeliver&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BROBeliver&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🏆 Projects
+
+🔹 Coming Soon...
+
+---
+
+## 🌐 Connect With Me
+
+📌 LinkedIn  
+https://www.linkedin.com/in/anandarokade
+
+📌 GitHub  
+https://github.com/BROBeliver
+
+📌 Email  
+[anandabrokade17@gmail.com](mailto:anandabrokade17@gmail.com)
+
+---
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/anandarokade/anandarokade/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+⭐ From [anandarokade](https://github.com/BROBeliver)
