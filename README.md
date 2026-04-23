@@ -11,7 +11,7 @@
 ## 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=anandarokade&label=Profile%20views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=BROBeliver&label=Profile%20views&color=blue&style=flat"/>
 </p>
 
 ---
@@ -90,9 +90,9 @@ https://github.com/BROBeliver
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/anandarokade/anandarokade/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/BROBeliver/BROBeliver/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-⭐ From [anandarokade](https://github.com/BROBeliver)
+⭐ From [BROBeliver](https://github.com/BROBeliver)
