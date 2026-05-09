@@ -18,9 +18,7 @@
 
 ## 🚀 About Me
 
-🎓 B.E. E&TC Student at PICT Pune  
-💻 MERN Stack Developer | 📚 200+ DSA Problems | 🤖 AI/ML Explorer  
-🚀 Building real-world applications and strong problem-solving skills
+🎓 B.E. E&TC Studenflications and strong problem-solving skills
 
 ---
 
